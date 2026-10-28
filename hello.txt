@@ -1,1 +1,5 @@
-I am starting with a new commit
+Hello Git
+Learning Git Bash
+I am stashing to hello.txt
+Stashing the file
+stashing
